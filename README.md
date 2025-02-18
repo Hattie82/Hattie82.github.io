@@ -34,13 +34,13 @@ The **My Journey** project provides a space for you to learn and practice your w
 1. **Fork the repository**:
    - To get started, fork this repository,
    - Make yourself the owner,
-   - Change Repository name to **<user_name>.github.io**,
+   - Change Repository name to **<Hattie82>.github.io**,
    - Make sure the Copy the main branch is checked ✅
-   - Click **Create fork** button,
+   - Click **Aboutme** button,
    - <img width="493" alt="Screenshot 2025-01-24 at 12 15 07" src="https://github.com/user-attachments/assets/bcc4b04e-cb8d-44d7-b360-af485584e80e" />
 
 2. **Where to next**:
-   Begin by introducing yourself on the **index.html** page. At this stage we only expect you to complete the **About Me** part of your project.
+   Begin by introducing yourself on the **index.M name is Hatina Joyce Chitiyo html** page. At this stage we only expect you to complete the **About Me** part of your project.
    - Introduce yourself, Where are you from?
    - Talk about your interests,
    - Talk about your goals and aspirations,
